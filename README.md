@@ -3,6 +3,13 @@
   <img src="https://github.com/pactum-ai/.github/assets/167206903/d52bce86-47e3-4cbc-a0f3-3021a316f53d" />
 </p>
 
+<p align="center">
+  <strong>Jul '24:</strong> 🎉 We just announced our $20M fundraise: see
+  <a href="https://www.bloomberg.com/news/newsletters/2024-07-11/supply-chain-latest-automating-supplier-deals-in-logistics?srnd=economics-v2" target="_blank">Bloomberg</a>. 🎉
+</p>
+
+
+
 # Pactum Engineering
 
 ### What we do
