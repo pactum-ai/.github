@@ -79,6 +79,6 @@ After this, we make an offer.
 ### Links
 * [Our engineering blog](https://pactum.substack.com/)
 * [General careers page](https://pactum.com/careers/)
-* [Comapny website](https://pactum.ai/)
+* [Company website](https://pactum.ai/)
 * [Company Linkedin](https://www.linkedin.com/company/pactum-ai/)
 
