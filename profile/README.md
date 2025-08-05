@@ -3,11 +3,18 @@
   <img src="https://github.com/pactum-ai/.github/assets/167206903/d52bce86-47e3-4cbc-a0f3-3021a316f53d" />
 </p>
 
+<p align="center">
+  <strong>Jun '25:</strong> 🎉 We just announced our $54M fundraise: see
+  <a href="https://pactum.com/news-pactum-secures-54-million-in-series-c-funding-to-scale-agentic-ai-in-procurement/" target="_blank">announcement</a>. 🎉
+</p>
+
+
+
 # Pactum Engineering
 
 ### What we do
 
-We build the technology for autonomous negotiations for some of the world's largest companies -- in retail, manufacturing, logistics, and many other areas. Whenever something gets bought in a large company -- from SaaS to legal services to buckets of glue -- there is opportunity for negotiation. That's where Pactum steps in to reduce human work and find a deal that is better for both buyer and supplier.
+We build procurement AI agents for some of the world's largest companies in retail, manufacturing, logistics, and many other areas. Whenever something gets bought in a large company -- from SaaS to legal services to buckets of glue -- there is a lot of work to be done, from checking nuances in documents to negotiating the terms of agreements. That's where Pactum steps in to do this all automatically, reducing human work and finding deals that are better for both buyer and supplier.
 
 Here are a few of the things our engineers say about what is cool at Pactum:
 
@@ -21,21 +28,27 @@ Here are a few of the things our engineers say about what is cool at Pactum:
 
 Don't get the impression it's all easy though. Some of the challenges we face:
 
-* We are the first in the world building autonomous negotiations -- charting new territory. This means we sometimes don't know up-front what the product should be, and need to prototype fast with customers to figure this out.
+* We are building AI agents with real authority over millions of dollars. This means we sometimes don't know up-front what the product should be, and need to prototype fast with customers to figure this out -- while avoiding catastrophic mistakes.
 * Enterprise customers expect us to conform to their process. Having a product that customizabile while keeping up speed and quality is a big challenge.
-* Negotiations aren't a classical form of software: they are more akin to a building a computer game with complex structured conversation. Building that, fast, is hard.
+* AI agents and conversational products (like negotiations) aren't a classical form of software: they need to function in open-ended environments.
 
-AI at Pactum is not limited to one particular department; the whole product is about delivering an intelligent and automatic negotiation, so every product team is involved in building our AI. We were around before LLMs and will be around after: we are focusing on AI that creates value for our clients, not any particular technology.
+AI at Pactum is not limited to one particular department; we expect every team to use the best AI tools, and build AI into their components. This obviously includes the customer facing products, but also internal platforms and workflows. That said, we are not AI maximalists, and we don't force a particular technology for its own sake. Our approach is one of skeptical optimism: we use AI where it is actually useful -- and we are willing to put in the work to figure out where that is.
 
 How we strive to work:
-* Frequent deliveries, learning quickly from quick iterations. We deploy hundreds of times per week.
-* We take quality and maintainability seriously and invest into observability (centralized logging, distributed traces, alerting, metrics)
-* We share knowledge, aim to avoid single person responsibility and mostly work in focused groups
-* Teams have autonomy over their roadmaps, processes and ways of working
+
+* Frequent delivery, learning from quick iterations. We deploy hundreds of times per week.
+* We take quality and maintainability seriously and invest into observability (centralized logging, distributed traces, alerting, metrics).
+* We share knowledge, aim to avoid single person responsibility and mostly work in focused groups.
+* Teams have autonomy over their roadmaps, processes and ways of working.
 
 ### Our people
 
-At Pactum, you'd be working alongside people like [@kristjankorjus](https://github.com/kristjankorjus), [@taivop](https://github.com/taivop), [@VitaliiLakusta](https://github.com/VitaliiLakusta) and many other experienced engineers and leaders. Fun fact: our team has 9 former startup CTOs.
+At Pactum, you'd be working alongside people like:
+* Chief Scientist [@kristjankorjus](https://github.com/kristjankorjus)
+* CTO [@taivop](https://github.com/taivop) ([personal blog](https://www.taivo.ai/))
+* Head of Product Engineering [@VitaliiLakusta](https://github.com/VitaliiLakusta) ([podcast](https://log.mapforengineers.com/))
+
+...and many other experienced engineers and leaders. Fun fact: our team has 9 former startup CTOs.
 
 Check out the short clip for more faces:
 
@@ -47,7 +60,21 @@ Check out the short clip for more faces:
 
 ### Join us
 
-If you're considering joining us, let's have a conversation. Apply to our [**Senior Software Engineer**](https://boards.eu.greenhouse.io/pactum/jobs/4031743101) position or fill out an [open application](https://boards.eu.greenhouse.io/pactum/jobs/4105639101). Please get in touch even if you don't hit 100% of the criteria: we especially appreciate people with less formal experience but signs of excellence otherwise.
+If you're considering joining us, let's have a conversation. Apply to our [**Senior Software Engineer**](https://careers.pactum.com/jobs/5607983-senior-software-engineer) position or email an open application to `engineering-open-application [at] pactum.com`. Please get in touch even if you don't hit 100% of the criteria: we especially appreciate people with less formal experience but signs of excellence otherwise. Many of the things we do have never been done and don't fall in neat buckets, so we look for excellent people of varying backgrounds.
+
+As a rule, we hire engineers into Estonia. In exceptional circumstances we consider supporting relocation or remote work in close timezones (Tallinn +- 2 hours).
+
+Key benefits we offer:
+
+- Unlimited Paid Time Off - Take the time you need to recharge and refresh.
+- Paid Sick Days and Sick Leave.
+- Learning & Development Opportunities and Budget - Grow your skills with access to courses, workshops, and more.
+- Company Offsite - Connect and collaborate with the team during our all company offsite event -- the last one was in Gran Canaria.
+- After Hours at the Office twice a month - Unwind and bond with colleagues in a fun, informal setting.
+- Parking Compensation.
+- Food & Drinks at the Office - Enjoy complimentary snacks, beverages, and meals to keep you fueled throughout the day.
+- Make your choice between Additional Health Insurance or Sports Compensation - Valid after your probation period.
+
 
 ### FAQ
 <details>
@@ -76,9 +103,17 @@ After this, we make an offer.
 
 </details>
 
+<details>
+  <summary>Do you only hire senior engineers?</summary>
+
+  We consider everyone's background and make an offer (including title and compensation) that matches the person's capabilities and potential. Our most common offer is Senior, but we've also hired several mid-level and Staff engineers in the past 12 months.
+
+</details>
+
 ### Links
+
 * [Our engineering blog](https://pactum.substack.com/)
 * [General careers page](https://pactum.com/careers/)
+* [Careers connect page](https://careers.pactum.com/connect) -- sign up here to be notified of future openings
 * [Company website](https://pactum.ai/)
 * [Company Linkedin](https://www.linkedin.com/company/pactum-ai/)
-
