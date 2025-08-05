@@ -91,6 +91,13 @@ After this, we make an offer.
 
 </details>
 
+<details>
+  <summary>Do you only hire senior engineers?</summary>
+
+  We consider everyone's background and make an offer (including title and compensation) that matches the person's capabilities and potential. Our most common offer is Senior, but we've also hired several mid-level and Staff engineers in the past 12 months.
+
+</details>
+
 ### Links
 * [General careers page](https://pactum.com/careers/)
 * [Comapny website](https://pactum.ai/)
