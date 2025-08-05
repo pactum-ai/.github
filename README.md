@@ -112,8 +112,8 @@ After this, we make an offer.
 
 ### Links
 
+* [Our engineering blog](https://pactum.substack.com/)
 * [General careers page](https://pactum.com/careers/)
 * [Careers connect page](https://careers.pactum.com/connect) -- sign up here to be notified of future openings
 * [Company website](https://pactum.ai/)
 * [Company Linkedin](https://www.linkedin.com/company/pactum-ai/)
-
