@@ -60,7 +60,7 @@ Check out the short clip for more faces:
 
 ### Join us
 
-If you're considering joining us, let's have a conversation. Apply to our [**Senior Software Engineer**](https://boards.eu.greenhouse.io/pactum/jobs/4031743101) position or email an open application to `engineering-open-application [at] pactum.com`. Please get in touch even if you don't hit 100% of the criteria: we especially appreciate people with less formal experience but signs of excellence otherwise. Many of the things we do have never been done and don't fall in neat buckets, so we look for excellent people of varying backgrounds.
+If you're considering joining us, let's have a conversation. Apply to our [**Senior Software Engineer**](https://careers.pactum.com/jobs/5607983-senior-software-engineer) position or email an open application to `engineering-open-application [at] pactum.com`. Please get in touch even if you don't hit 100% of the criteria: we especially appreciate people with less formal experience but signs of excellence otherwise. Many of the things we do have never been done and don't fall in neat buckets, so we look for excellent people of varying backgrounds.
 
 As a rule, we hire engineers into Estonia. In exceptional circumstances we consider supporting relocation or remote work in close timezones (Tallinn +- 2 hours).
 
