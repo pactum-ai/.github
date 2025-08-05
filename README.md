@@ -64,6 +64,18 @@ If you're considering joining us, let's have a conversation. Apply to our [**Sen
 
 As a rule, we hire engineers into Estonia. In exceptional circumstances we consider supporting relocation or remote work in close timezones (Tallinn +- 2 hours).
 
+Key benefits we offer:
+
+- Unlimited Paid Time Off - Take the time you need to recharge and refresh.
+- Paid Sick Days and Sick Leave.
+- Learning & Development Opportunities and Budget - Grow your skills with access to courses, workshops, and more.
+- Company Offsite - Connect and collaborate with the team during our all company offsite event -- the last one was in Gran Canaria.
+- After Hours at the Office twice a month - Unwind and bond with colleagues in a fun, informal setting.
+- Parking Compensation.
+- Food & Drinks at the Office - Enjoy complimentary snacks, beverages, and meals to keep you fueled throughout the day.
+- Make your choice between Additional Health Insurance or Sports Compensation - Valid after your probation period.
+
+
 ### FAQ
 <details>
   <summary>Can I work remotely?</summary>
@@ -99,7 +111,9 @@ After this, we make an offer.
 </details>
 
 ### Links
+
 * [General careers page](https://pactum.com/careers/)
-* [Comapny website](https://pactum.ai/)
+* [Careers connect page](https://careers.pactum.com/connect) -- sign up here to be notified of future openings
+* [Company website](https://pactum.ai/)
 * [Company Linkedin](https://www.linkedin.com/company/pactum-ai/)
 
