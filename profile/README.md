@@ -3,10 +3,6 @@
   <img src="https://github.com/pactum-ai/.github/assets/167206903/d52bce86-47e3-4cbc-a0f3-3021a316f53d" />
 </p>
 
-<p align="center">
-  <strong>Jun '25:</strong> 🎉 We just announced our $54M fundraise: see
-  <a href="https://pactum.com/news-pactum-secures-54-million-in-series-c-funding-to-scale-agentic-ai-in-procurement/" target="_blank">announcement</a>. 🎉
-</p>
 
 
 
@@ -48,7 +44,7 @@ At Pactum, you'd be working alongside people like:
 * CTO [@taivop](https://github.com/taivop) ([personal blog](https://www.taivo.ai/))
 * Head of Product Engineering [@VitaliiLakusta](https://github.com/VitaliiLakusta) ([podcast](https://log.mapforengineers.com/))
 
-...and many other experienced engineers and leaders. Fun fact: our team has 9 former startup CTOs.
+...and many other experienced engineers and leaders. Fun fact: our team has 10 former startup CTOs.
 
 Check out the short clip for more faces:
 
@@ -60,7 +56,7 @@ Check out the short clip for more faces:
 
 ### Join us
 
-If you're considering joining us, let's have a conversation. Apply to our [**Senior Software Engineer**](https://careers.pactum.com/jobs/5607983-senior-software-engineer) position or email an open application to `engineering-open-application [at] pactum.com`. Please get in touch even if you don't hit 100% of the criteria: we especially appreciate people with less formal experience but signs of excellence otherwise. Many of the things we do have never been done and don't fall in neat buckets, so we look for excellent people of varying backgrounds.
+If you're considering joining us, let's have a conversation. Apply to our [**Senior Software Engineer**](https://careers.pactum.com/jobs/6633946-senior-software-engineer) position or email an open application to `engineering-open-application [at] pactum.com`. Please get in touch even if you don't hit 100% of the criteria: we especially appreciate people with less formal experience but signs of excellence otherwise. Many of the things we do have never been done and don't fall in neat buckets, so we look for excellent people of varying backgrounds.
 
 As a rule, we hire engineers into Estonia. In exceptional circumstances we consider supporting relocation or remote work in close timezones (Tallinn +- 2 hours).
 
@@ -106,7 +102,7 @@ After this, we make an offer.
 <details>
   <summary>Do you only hire senior engineers?</summary>
 
-  We consider everyone's background and make an offer (including title and compensation) that matches the person's capabilities and potential. Our most common offer is Senior, but we've also hired several mid-level and Staff engineers in the past 12 months.
+  We consider everyone's background and make an offer (including title and compensation) that matches the person's capabilities and potential. Our most common offer is Senior, but we regularly hire high-potential juniors, Staff+ level engineers and Engineering leaders up to executive level.
 
 </details>
 
@@ -115,5 +111,5 @@ After this, we make an offer.
 * [Our engineering blog](https://pactum.substack.com/)
 * [General careers page](https://pactum.com/careers/)
 * [Careers connect page](https://careers.pactum.com/connect) -- sign up here to be notified of future openings
-* [Company website](https://pactum.ai/)
+* [Company website](https://pactum.com/)
 * [Company Linkedin](https://www.linkedin.com/company/pactum-ai/)
